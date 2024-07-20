@@ -1,8 +1,8 @@
-# HouseForYou
+# HomeForYou
 
 ## Description
 
-**HouseForYou** is a full-stack real estate web application built with the MERN stack (MongoDB, Express.js, React, Node.js) and enhanced with Tailwind CSS for styling, Redux Toolkit for state management, JWT for authentication, and Firebase for additional services. This platform allows users to browse, search, and manage real estate listings, offering a seamless experience for both users and administrators.
+**HomeForYou** is a full-stack real estate web application built with the MERN stack (MongoDB, Express.js, React, Node.js) and enhanced with Tailwind CSS for styling, Redux Toolkit for state management, JWT for authentication, and Firebase for additional services. This platform allows users to browse, search, and manage real estate listings, offering a seamless experience for both users and administrators.
 
 ## Features
 
